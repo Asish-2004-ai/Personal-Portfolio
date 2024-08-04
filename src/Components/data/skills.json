@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"Firebase",
+    "imageSrc":"skills/firebase.png"
+  },
+  {
+    "title": "Express Js",
+    "imageSrc": "skills/th (1).jpg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/ty.jpg"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tail1.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/git3.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/th (3).jpg"
+  }
+]
