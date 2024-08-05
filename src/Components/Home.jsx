@@ -11,7 +11,7 @@ const Home = () => {
   const typedRef = useRef(null);
   useEffect(()=>{
     const options = {
-    strings:["ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏғɪʟᴇ","Hi, I am Ａｓｈｉｓｈ","Full Sᴛᴀᴄᴋ Web ᴅᴇᴠᴇʟᴏᴘᴇʀ","Software ᴅᴇᴠᴇʟᴏᴘᴇʀ"],
+    strings:["ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏғɪʟᴇ","Hi, I am Ａｓｈｉｓｈ","Full Sᴛᴀᴄᴋ Web ᴅᴇᴠᴇʟᴏᴘᴇʀ","React ᴅᴇᴠᴇʟᴏᴘᴇʀ"],
     // style: {BiFontSize},
     typeSpeed:50,
     backSpeed:50,
