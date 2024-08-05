@@ -5,7 +5,7 @@ const Project = () => {
   return (
     <>
      <div classNameName="container project my-3" id='project'>
-      <h3>Projects</h3>
+      <h3>𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔</h3>
       <div classNameName="row d-flex justify-content-center align-items-center">
      {
       project.map(projects=>(

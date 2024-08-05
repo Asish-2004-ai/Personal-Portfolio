@@ -16,12 +16,12 @@ const Navbar = () => {
             data-aos="fade-down"
             data-aos-duration="2000"
             >
-                <div className="left nav_items "style={{marginLeft:'5%',fontSize:'2rem'}}>Portfolio</div>
+                <div className="left nav_items "style={{marginLeft:'5%',fontSize:'2rem'}}>𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸</div>
                 <div className="right">
-                    <a href="#home" className="text-white nav_items text-decoration-none">Home</a>
-                    <a href="#skill" className="nav_items text-white  text-decoration-none">Skills</a>
-                    <a href="#project" className="nav_items text-white text-decoration-none">Projects</a>
-                    <a href="#contact" className="nav_items text-white text-decoration-none">Contact</a>
+                    <a href="#home" className="text-white nav_items text-decoration-none">𝓗𝓸𝓶𝓮</a>
+                    <a href="#skill" className="nav_items text-white  text-decoration-none">𝓢𝓴𝓲𝓵𝓵𝓼</a>
+                    <a href="#project" className="nav_items text-white text-decoration-none">𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</a>
+                    <a href="#contact" className="nav_items text-white text-decoration-none">𝓒𝓸𝓷𝓽𝓪𝓬𝓽</a>
                     
                 </div>
             </div>

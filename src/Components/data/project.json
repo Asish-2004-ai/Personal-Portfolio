@@ -1,8 +1,8 @@
 [{
     "key":1,
-    "title":"React Video Library",
+    "title":"𝑹𝒆𝒂𝒄𝒕 𝑽𝒊𝒅𝒆𝒐 𝑳𝒊𝒃𝒓𝒂𝒓𝒚",
     "imgsrc":"project/react.png",
-    "description":"This a 3tier Web Application made with React Js",
+    "description":"𝓣𝓱𝓲𝓼 𝓪 3𝓽𝓲𝓮𝓻 𝓦𝓮𝓫 𝓐𝓹𝓹𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷 𝓶𝓪𝓭𝓮 𝔀𝓲𝓽𝓱 𝓡𝓮𝓪𝓬𝓽 𝓙𝓼",
     "demo":"https://video-library-project.vercel.app",
     "source":"https://github.com/Asish-2004-ai"
 

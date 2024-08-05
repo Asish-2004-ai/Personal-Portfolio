@@ -1,54 +1,54 @@
 [
   {
-    "title": "HTML",
+    "title": "𝐇𝐓𝐌𝐋",
     "imageSrc": "skills/html.png"
   },
   {
-    "title": "CSS",
+    "title": "𝐂𝐒𝐒",
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "JavaScript",
+    "title": "𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕",
     "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "React",
+    "title": "𝑹𝒆𝒂𝒄𝒕",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "𝑵𝒐𝒅𝒆",
     "imageSrc": "skills/node.png"
   },
   {
-    "title":"Firebase",
+    "title":"𝑭𝒊𝒓𝒆𝒃𝒂𝒔𝒆",
     "imageSrc":"skills/firebase.png"
   },
   {
-    "title": "Express Js",
+    "title": "𝑬𝒙𝒑𝒓𝒆𝒔𝒔 𝑱𝒔",
     "imageSrc": "skills/th (1).jpg"
   },
   {
-    "title": "MongoDB",
+    "title": "𝑴𝒐𝒏𝒈𝒐𝑫𝑩",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
+    "title": "𝐅𝐢𝐠𝐦𝐚",
     "imageSrc": "skills/figma.png"
   },
   {
-    "title": "TypeScript",
+    "title": "𝑻𝒚𝒑𝒆𝑺𝒄𝒓𝒊𝒑𝒕",
     "imageSrc": "skills/ty.jpg"
   },
   {
-    "title": "Tailwind",
+    "title": "𝑻𝒂𝒊𝒍𝒘𝒊𝒏𝒅",
     "imageSrc": "skills/tail1.png"
   },
   {
-    "title": "GitHub",
+    "title": "𝑮𝒊𝒕𝑯𝒖𝒃",
     "imageSrc": "skills/git3.png"
   },
   {
-    "title": "C++",
+    "title": "𝘾++",
     "imageSrc": "skills/th (3).jpg"
   }
 ]
