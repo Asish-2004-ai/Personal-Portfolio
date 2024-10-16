@@ -4,6 +4,15 @@
     "imgsrc":"project/react.png",
     "description":"𝓣𝓱𝓲𝓼 𝓪 3𝓽𝓲𝓮𝓻 𝓦𝓮𝓫 𝓐𝓹𝓹𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷 𝓶𝓪𝓭𝓮 𝔀𝓲𝓽𝓱 𝓡𝓮𝓪𝓬𝓽 𝓙𝓼",
     "demo":"https://video-library-project.vercel.app",
-    "source":"https://github.com/Asish-2004-ai"
+    "source":"https://github.com/Asish-2004-ai/Video-Library-Project"
 
-}]
+},
+{
+    "key":2,
+    "title":"Food-Delivery-App",
+    "imgsrc":"project/food.png",
+    "description":"This is a food-delivery web app made with react & typescript",
+    "demo":"https://kaleidoscopic-granita-513e6f.netlify.app",
+    "source":"https://github.com/Asish-2004-ai/Food-Delivery-app"  
+}
+]
